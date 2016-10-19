@@ -1,1 +1,1 @@
-The javascript version of Herbert Kociemba's two phase algorithm to solve Rubik's cube.
+Herbert Kociemba's two phase algorithm from [Cube20](http://cube20.org/src/), implemented by Tomas Rokicki.
