@@ -1,0 +1,6 @@
+*.c
+*_test
+*.dat
+*.log
+twophase
+hcoset
